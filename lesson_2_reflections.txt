@@ -1,0 +1,3 @@
+- git starts to know that it should create log for commits related to the changes in the files in that directory. We need it because we want to track that changes for the files in that folder.
+
+-It allows to choose the files that will be included in a commit and lets us add them one by one when they get ready.
