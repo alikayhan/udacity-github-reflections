@@ -1,3 +1,7 @@
 - git starts to know that it should create log for commits related to the changes in the files in that directory. We need it because we want to track that changes for the files in that folder.
 
--It allows to choose the files that will be included in a commit and lets us add them one by one when they get ready.
+- It allows to choose the files that will be included in a commit and lets us add them one by one when they get ready.
+
+- I can put the files into the staging area, all of which are related to only one logical change. After that I can commit them all at once with the same commit message.
+
+- It might be useful for making branches related to the development in a period of time -let's say for a week-
