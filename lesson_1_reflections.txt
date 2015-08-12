@@ -1,0 +1,13 @@
+- It helped to find the reason of the bug that we met in the latter version of the file.
+
+- You can track changes and if you need to go back for some part of the program or if you need to use some old versions of some part of the program, you can do them easily.
+
+- Manual saving provides us flexibilty and control over our code but we should remember saving in appropriate time intervals. Auto saving helps us remember saving but it might be unpleasant that a code you actually did not want to save is saved and it doesn't compile afterwards.
+
+- Git is the version control for files that might have been interrelated.
+
+- By calling that commands on terminal when pwd is a valid git repository.
+
+- It gives me the feeling that I can always go back.
+
+- I want to use it for one of my personal projects, which is a crawler using feedly API.
