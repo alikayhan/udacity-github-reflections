@@ -9,3 +9,5 @@
 - They help us see the branch structure.
 
 - The result is that the features in two different branches are put together. Diagrams help us see better the merging process and the parent commit idea.
+
+- It merges completely and solid with auto merging, however when there is a conflict Git doesn't know which one to choose.
