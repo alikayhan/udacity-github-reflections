@@ -7,3 +7,5 @@
 - It might be useful for making branches related to the development in a period of time -let's say for a week-
 
 - They help us see the branch structure.
+
+- The result is that the features in two different branches are put together. Diagrams help us see better the merging process and the parent commit idea.
