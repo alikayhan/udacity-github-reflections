@@ -5,3 +5,5 @@
 - I can put the files into the staging area, all of which are related to only one logical change. After that I can commit them all at once with the same commit message.
 
 - It might be useful for making branches related to the development in a period of time -let's say for a week-
+
+- They help us see the branch structure.
