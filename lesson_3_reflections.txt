@@ -13,4 +13,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	By sending the code files by e-mail or keeping them on a cloud storage. These ways are easier to use than Git and Github but collaboration, version control and change history put Git and Github way ahead of these. Learning how to use Git and Github definitely pays off.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	When we want feedback and review from other collaborators.
+
   
